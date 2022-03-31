@@ -1,0 +1,35 @@
+body{
+    background: rgb(13,10,51);
+    background: linear-gradient(90deg, rgba(13,10,51,1) 19%, rgba(56,13,75,1) 51%, rgba(89,107,111,1) 86%);
+}
+
+.container{
+
+    max-width: 500px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    font-size:30px;
+    text-align: center;
+}
+
+button{
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #18181a;
+    color: #18181a;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 15px;
+    padding: 2px 5px 4px;
+    text-decoration: none;
+    cursor: pointer;
+    background: #fff;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+}
+
+
